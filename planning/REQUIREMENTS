@@ -1,0 +1,7 @@
+In this file we will list the project requirements. We will do this in detail and in list format. Do NOT describe a functionality hierarchy (that is, do NOT say how specific requirements should inter-relate unless that interrelation is actually part of the functional requirement). This should be in problem-domain language, i.e., it should describe a user-story. If anyone has what they think are brilliant ideas about technical avenues to explore in solving, they CAN be placed in this as notes, but make it clear that they are only brainstormed possibilities. This should look like this:
+
+- Individual users have user profile
+- Option to chat anonymously or not
+- Chat can save
+
+etc, etc, etc. Be detailed. Be very detailed. If anyone makes any changes here, commit and push. This will let us track version history. Once the full details of requirements have been worked out, ONLY THEN should you start paring down to exactly what might be desired for the initial deployment. Remember that technical limitation and user pressure are both selection pressures at that point and will determine development priorities.
